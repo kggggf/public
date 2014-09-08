@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# modified by SunYeop Lee from https://raw.githubusercontent.com/kbatten/python-socks5-socket/master/monkey_sockets_socks5.py
+
 from struct import pack, unpack
 from socket import *
 
