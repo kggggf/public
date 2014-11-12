@@ -1,5 +1,5 @@
-email = ""
-passwd = ""
+email = "kggggf@naver.com"
+passwd = "coco9833"
 
 from pycurl import *
 import certifi
